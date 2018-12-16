@@ -1,10 +1,4 @@
 function calc() {
-        // var bill = Number(document.getElementById('bill').value);
-        // var tip = bill * .25;
-        // var total_bill = bill + tip;
-
-        // document.getElementById("tipDisplay").innerHTML= "$"+Number(tip).toFixed(2);
-        // document.getElementById("total").innerHTML= "$"+Number(total_bill).toFixed(2);
 
         let bill = Number(document.getElementById('bill').value);
         let tip = Number(document.getElementById('tip').value);
